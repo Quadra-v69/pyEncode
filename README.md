@@ -1,5 +1,5 @@
 
-````
+
 # 🔐 PyEncode
 
 **PyEncode** is a lightweight Python tool that **encodes your Python scripts** using **Base64** and generates a new `.py` file that can be executed normally.  
