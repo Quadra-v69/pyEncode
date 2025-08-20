@@ -19,7 +19,7 @@ No external libraries required — just **Python 3**.
 
 ```bash
 git clone https://github.com/quadra-v69/pyencode.git
-cd pyencode
+cd pyEncode
 ````
 
 > **Note:** You must have **Python 3** installed.
@@ -29,7 +29,7 @@ cd pyencode
 ## 🛠️ Usage
 
 ```bash
-python3 pyencode.py
+python3 pyEncode.py
 ```
 
 * The script will ask for the path of your Python file.
